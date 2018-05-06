@@ -1,0 +1,1 @@
+python3 test_vo_loop.py ~/Documents/School/CMU/SLAM/project/drone_data2/cmu_map.png ~/Documents/School/CMU/SLAM/project/drone_data2/images/ ~/Documents/School/CMU/SLAM/project/drone_data2/flight_vo_data.csv ~/Documents/School/CMU/SLAM/project/drone_data2/gt_traj.csv 0.0323 64.5 51 1 drone_data_dlk_poses.csv jpg

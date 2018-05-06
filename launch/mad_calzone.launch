@@ -1,0 +1,12 @@
+<!-- Launch Nodes for take_off -->
+
+<launch>
+
+    <node name="lk_semi" pkg="mad_slam" type="lk_semi" />
+	
+    <node name="Solver.py" pkg="mad_slam" type="Solver.py"/>
+
+    <node name="map_odom.py" pkg="mad_slam" type="map_odom.py"/>
+
+
+</launch>
